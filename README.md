@@ -3,7 +3,7 @@ NAC da matéria AI Engineering, Cognitive and Semantic Computation &amp; IOT
 
 # Nome do projeto: NAC 01
 
-**nome dos alunos:** Gabriel Marciano Borowiec e Leonardo Sanches Alves de Oliveira(RM 82064)
+**nome dos alunos:** Gabriel Marciano Borowiec(RM 81779) e Leonardo Sanches Alves de Oliveira(RM 82064)
 
 **Turma:** 4SIA
 
@@ -30,8 +30,6 @@ Explique como rodar o seu projeto. Quais programas instalar, como configurar...
 Ou qualquer outra tabulação:
 
 - [x] Youtube
-- [ ] Facebook 
-- [x] Instagram
 
 Pode adicionar algum trecho de código, por exemplo para clonar esse repositório:
 
