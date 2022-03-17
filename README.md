@@ -55,8 +55,7 @@ Pode adicionar algum trecho de código, por exemplo para clonar esse repositóri
 
 [Demonstração do Exercício 4](https://youtu.be/PEI2Fo6QJZM)
 
-
 ### Referências 
 
-* [mastering-markdown](https://guides.github.com/features/mastering-markdown/)
-* [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+#### Aula 06 do material para filtrar as imagens por cor.
+#### Aula 07 do material para a identificação dos círculos.
