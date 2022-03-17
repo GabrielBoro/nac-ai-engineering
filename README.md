@@ -15,9 +15,19 @@ Nac 01, tem como objetivo validar conhecimento na linguagem python nas bibliotec
 
 ## Diagrama do projeto
 
-Adicione uma ou mais fotos do projeto, pode ser uma imagem da arquitetura, do circuito eletrônico do Flow desenvolvido. 
+### Exercício 1
+<img src="/exercicio1.png" width="550">
 
-<img src="/imagem.jpg" width="550">
+<img src="/exercicio1-parte2.png" width="550">
+
+### Exercício 2
+<img src="/exercicio2.png" width="550">
+
+### Exercício 3
+<img src="/exercicio3.png" width="550">
+
+### Exercício 4
+[Demonstração do Exercício 4](https://youtu.be/PEI2Fo6QJZM)
 
 
 ## Como usar 
@@ -43,9 +53,7 @@ Pode adicionar algum trecho de código, por exemplo para clonar esse repositóri
     
 ## Link de vídeo demonstração
 
-Adicione o link para assistir ao vídeo do projeto funcionando.
-
-[Link para o video youtube](https://www.youtube.com/watch?v=xva71wynxS0)
+[Demonstração do Exercício 4](https://youtu.be/PEI2Fo6QJZM)
 
 
 ### Referências 
