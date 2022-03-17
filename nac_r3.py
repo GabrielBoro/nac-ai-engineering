@@ -80,4 +80,3 @@ while rval:
 
 vc.release()
 cv.destroyWindow("preview")
-
