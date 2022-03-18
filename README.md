@@ -25,6 +25,7 @@ Nac 01, tem como objetivo validar conhecimento na linguagem python nas bibliotec
 
 ### Exercício 3
 <img src="/exercicio3.png" width="550">
+[Demonstração do Exercício 3](https://youtu.be/YVYDrE7SV6s)
 
 ### Exercício 4
 [Demonstração do Exercício 4](https://youtu.be/PEI2Fo6QJZM)
@@ -53,7 +54,9 @@ Pode adicionar algum trecho de código, por exemplo para clonar esse repositóri
     
 ## Link de vídeo demonstração
 
+[Demonstração do Exercício 3](https://youtu.be/YVYDrE7SV6s)
 [Demonstração do Exercício 4](https://youtu.be/PEI2Fo6QJZM)
+
 
 ### Referências 
 
